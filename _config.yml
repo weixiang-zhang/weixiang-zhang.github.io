@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Weixiang Zhang"
-description              : "Neural Representation & 3D Vision"
+title                    : "Weixiang Zhang  (张伟翔)"
+description              : "Seeking PhD Position..."
 repository               : "weixiang-zhang/weixiang-zhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Weixiang Zhang 张伟翔"
+  name             : "Weixiang Zhang"
   avatar           : "images/rect-wx.png"
   bio              : "Tsinghua University"
   location         : "Shenzhen, China"
