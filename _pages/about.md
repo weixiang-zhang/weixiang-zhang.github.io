@@ -25,24 +25,21 @@ I am now a Master student at Tsinghua SIGS, working with Prof. [Zhi Wang](http:/
 - *2024.12*: &nbsp; Two paper got accepted to AAAI 2025. 
 
 # 📝 Publications 
-- [EVOS: Efficient Implicit Neural Training via EVOlutionary Selector](https://arxiv.org/abs/2412.10153)
 
-**Weixiang Zhang**, Shuzhao Xie, Chengwei Ren, Siyi Xie, Chen Tang, Shijia Ge, Mingzi Wang, Zhi Wang
-
-- [EVOS: Efficient Implicit Neural Training via EVOlutionary Selector](https://arxiv.org/abs/2412.10153)
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div>
+<img src='covers/evos.png' alt="sym" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
 
 [EVOS: Efficient Implicit Neural Training via EVOlutionary Selector](https://arxiv.org/abs/2412.10153)
 
 **Weixiang Zhang**, Shuzhao Xie, Chengwei Ren, Siyi Xie, Chen Tang, Shijia Ge, Mingzi Wang, Zhi Wang
+
+[Code]()
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- (AAAI 2025)[Enhancing Implicit Neural Representations via Symmetric Power Transformation](https://arxiv.org/abs/2412.09213) | [code]() | **Weixiang Zhang**, Shuzhao Xie, Chengwei Ren, Shijia Ge, Mingzi Wang, Zhi Wang. 
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
