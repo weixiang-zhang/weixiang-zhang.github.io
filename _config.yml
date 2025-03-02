@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Weixiang Zhang"
-description              : "Academic Personal Homepage for Weixiang Zhang."
+description              : "Neural Representation & 3D Vision"
 repository               : "weixiang-zhang/weixiang-zhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Weixiang Zhang"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Weixiang Zhang 张伟翔"
+  avatar           : "images/rect-wx.png"
   bio              : "Tsinghua University"
   location         : "Shenzhen, China"
   employer         :
