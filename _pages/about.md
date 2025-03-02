@@ -39,8 +39,26 @@ I am now a Master student at Tsinghua SIGS, working with Prof. [Zhi Wang](http:/
 </div>
 </div>
 
-- (AAAI 2025) [Enhancing Implicit Neural Representations via Symmetric Power Transformation](https://arxiv.org/abs/2412.09213) \| ***Weixiang Zhang**, Shuzhao Xie, Chengwei Ren, Shijia Ge, Mingzi Wang, Zhi Wang* \| <a href="https://github.com/zwx-open/Symmetric-Power-Transformation-INR" ><img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white" alt></a>
-- 
+<div class='paper-box'>
+<div class='paper-box-text'>
+
+[EVOS: Efficient Implicit Neural Training via EVOlutionary Selector](https://arxiv.org/abs/2412.10153) \| [Code]()
+
+**Weixiang Zhang**, Shuzhao Xie, Chengwei Ren, Siyi Xie, Chen Tang, Shijia Ge, Mingzi Wang, Zhi Wang
+
+</div>
+</div>
+
+<div class='paper-box-text'>
+
+[EVOS: Efficient Implicit Neural Training via EVOlutionary Selector](https://arxiv.org/abs/2412.10153) \| [Code]()
+
+**Weixiang Zhang**, Shuzhao Xie, Chengwei Ren, Siyi Xie, Chen Tang, Shijia Ge, Mingzi Wang, Zhi Wang
+
+</div>
+
+- (AAAI 2025) [Enhancing Implicit Neural Representations via Symmetric Power Transformation](https://arxiv.org/abs/2412.09213) \| ***Weixiang Zhang**, Shuzhao Xie, Chengwei Ren, Shijia Ge, Mingzi Wang, Zhi Wang* \| [Code](https://github.com/zwx-open/Symmetric-Power-Transformation-INR)
+
 - 
 - 
 
