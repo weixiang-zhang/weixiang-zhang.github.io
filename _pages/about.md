@@ -54,7 +54,7 @@ I am now a Master student at Tsinghua SIGS, working with Prof. [Zhi Wang](http:/
 </div>
 
 
-- <span style="color: #00369f;">(ICASSP 2025)</span> [Lungmix: A Mixup-Based Strategy for Generalization in Respiratory Sound Classification](https://arxiv.org/abs/2501.00064) \| *Shijia Ge, **Weixiang Zhang**, Shuzhao Xie, Baixu Yan, Zhi Wang* 
+- <span style="color: #524887;">(ICASSP 2025)</span> [Lungmix: A Mixup-Based Strategy for Generalization in Respiratory Sound Classification](https://arxiv.org/abs/2501.00064) \| *Shijia Ge, **Weixiang Zhang**, Shuzhao Xie, Baixu Yan, Zhi Wang* 
 - 
 
 # 📌 Preprints
