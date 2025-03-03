@@ -2,7 +2,7 @@
 main:
   - title: "About Me"
     url: "/#about-me"
-    
+
   - title: "News"
     url: "/#-news"
 
@@ -15,8 +15,5 @@ main:
   - title: "Background"
     url: "/#-background"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
-  - title: "Academic Services"
-    url: "/#-academic-services"
+  - title: "Academic Service"
+    url: "/#-academic-service"

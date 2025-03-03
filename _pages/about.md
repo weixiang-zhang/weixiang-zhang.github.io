@@ -54,11 +54,11 @@ I am now a Master student at Tsinghua SIGS, working with Prof. [Zhi Wang](http:/
 </div>
 
 
-- <span style="color: #A42423;;">(ICASSP 2025)</span> [Lungmix: A Mixup-Based Strategy for Generalization in Respiratory Sound Classification](https://arxiv.org/abs/2501.00064) \| *Shijia Ge, **Weixiang Zhang**, Shuzhao Xie, Baixu Yan, Zhi Wang* 
-- <span style="color: #A42423;;">(ICASSP 2025)</span> [PulmoScan: A Practical Pulmonary Disease Pre-Screening System]() \| *Baixu Yan, Shijia Ge, Meizi Lu, **Weixiang Zhang**, Shuzhao Xie, Zhi Wang* 
-- <span style="color: #A42423;;">(AAAI 2025)</span> [JAQ: Joint Efficient Architecture Design and Low-Bit Quantization with Hardware-Software Co-Exploration](https://arxiv.org/abs/2501.05339) \| *Mingzi Wang, Yuan Meng, Chen Tang, **Weixiang Zhang**, Yijian Qin, Yang Yao, Yingxin Li, Tongtong Feng, Xin Wang, Xun Guan, Zhi Wang, Wenwu Zhu* 
-- <span style="color: #A42423;;">(NeurIPS 2024)</span> [Multi-scale Consistency for Robust 3D Registration via Hierarchical Sinkhorn Tree](https://openreview.net/pdf?id=sfPxUqzdPI) \| *Chengwei Ren, Yifan Feng, **Weixiang Zhang**, Xiao-Ping Zhang, Yue Gao* 
-- <span style="color: #A42423;;">(ECCV 2024)</span> [MesonGS: Post-training Compression of 3D Gaussians via Efficient Attribute Transformation](https://arxiv.org/abs/2409.09756) \| *Shuzhao Xie, **Weixiang Zhang**, Chen Tang, Yunpeng Bai, Rongwei Lu, Shijia Ge, Zhi Wang* 
+- <span style="color: #524887;">(ICASSP 2025)</span> [Lungmix: A Mixup-Based Strategy for Generalization in Respiratory Sound Classification](https://arxiv.org/abs/2501.00064) \| *Shijia Ge, **Weixiang Zhang**, Shuzhao Xie, Baixu Yan, Zhi Wang* 
+- <span style="color: #524887;">(ICASSP 2025)</span> [PulmoScan: A Practical Pulmonary Disease Pre-Screening System]() \| *Baixu Yan, Shijia Ge, Meizi Lu, **Weixiang Zhang**, Shuzhao Xie, Zhi Wang* 
+- <span style="color: #524887;">(AAAI 2025)</span> [JAQ: Joint Efficient Architecture Design and Low-Bit Quantization with Hardware-Software Co-Exploration](https://arxiv.org/abs/2501.05339) \| *Mingzi Wang, Yuan Meng, Chen Tang, **Weixiang Zhang**, Yijian Qin, Yang Yao, Yingxin Li, Tongtong Feng, Xin Wang, Xun Guan, Zhi Wang, Wenwu Zhu* 
+- <span style="color: #524887;">(NeurIPS 2024)</span> [Multi-scale Consistency for Robust 3D Registration via Hierarchical Sinkhorn Tree](https://openreview.net/pdf?id=sfPxUqzdPI) \| *Chengwei Ren, Yifan Feng, **Weixiang Zhang**, Xiao-Ping Zhang, Yue Gao* 
+- <span style="color: #524887;">(ECCV 2024)</span> [MesonGS: Post-training Compression of 3D Gaussians via Efficient Attribute Transformation](https://arxiv.org/abs/2409.09756) \| *Shuzhao Xie, **Weixiang Zhang**, Chen Tang, Yunpeng Bai, Rongwei Lu, Shijia Ge, Zhi Wang* 
 \| [[Code](https://github.com/ShuzhaoXie/MesonGS)] \| [[Project](https://shuzhaoxie.github.io/mesongs/)]
 
 # 📌 Preprints
