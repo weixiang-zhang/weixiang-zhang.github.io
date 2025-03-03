@@ -39,22 +39,34 @@ I am now a Master student at Tsinghua SIGS, working with Prof. [Zhi Wang](http:/
 </div>
 </div>
 
-- (AAAI 2025) [Enhancing Implicit Neural Representations via Symmetric Power Transformation](https://arxiv.org/abs/2412.09213) \| ***Weixiang Zhang**, Shuzhao Xie, Chengwei Ren, Shijia Ge, Mingzi Wang, Zhi Wang* \| [Code](https://github.com/zwx-open/Symmetric-Power-Transformation-INR)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div>
+<img src='covers/symtrans.png' alt="sym" width="100%">
+</div></div>
+<div class='paper-box-text' markdown="1">
+
+[Enhancing Implicit Neural Representations via Symmetric Power Transformation](https://arxiv.org/abs/2412.09213)
+
+**Weixiang Zhang**, Shuzhao Xie, Chengwei Ren, Shijia Ge, Mingzi Wang, Zhi Wang
+
+<a href="https://github.com/zwx-open/Symmetric-Power-Transformation-INR" ><img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white" alt></a>
+</div>
+</div>
+
+
+- <span style="color: #00369f;">(ICASSP 2025)</span> [Lungmix: A Mixup-Based Strategy for Generalization in Respiratory Sound Classification](https://arxiv.org/abs/2501.00064) \| *Shijia Ge, **Weixiang Zhang**, Shuzhao Xie, Baixu Yan, Zhi Wang* 
 - 
+
+# 📌 Preprints
 - 
+ 
+# 📖 Academic / Industry Background
+- *2022.09 - 2025.06* \| SIGS, Tsinghua Universit \| M.s. in Data Science.
+- *2020.07 - 2022.07* \| Bytedance \| Software Engineer \| Department of Product Development. 
+- *2016.09 - 2020.06* \| Beihang University \| B.S. in Electrical Engineering \| ShenYuan Honors College.  
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+#  Academic Service
+- IJCAI Reviwer: 2025
+- ICME Reviewer: 2025
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
