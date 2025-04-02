@@ -36,7 +36,7 @@ EVOS: Efficient Implicit Neural Training via EVOlutionary Selector
 **[Weixiang Zhang](https://weixiang-zhang.github.io/)**, [Shuzhao Xie](https://shuzhaoxie.github.io/), Chengwei Ren, Siyi Xie, [Chen Tang](https://www.chentang.cc/), Shijia Ge, Mingzi Wang, [Zhi Wang](http://pages.mmlab.top/)
 
 [[Paper]](https://arxiv.org/pdf/2412.10153) | 
-[[Website]](https://weixiang-zhang.github.io/proj-evos/) | 
+[[Project]](https://weixiang-zhang.github.io/proj-evos/) | 
 [[Code]](https://github.com/zwx-open/EVOS-INR)
 
 </div>
@@ -53,24 +53,36 @@ Enhancing Implicit Neural Representations via Symmetric Power Transformation
 **[Weixiang Zhang](https://weixiang-zhang.github.io/)**, [Shuzhao Xie](https://shuzhaoxie.github.io/), Chengwei Ren, Shijia Ge, Mingzi Wang, [Zhi Wang](http://pages.mmlab.top)
 
 [[Paper]](https://arxiv.org/abs/2412.09213) | 
-[[Website]](https://weixiang-zhang.github.io/proj-symtrans/) | 
+[[Project]](https://weixiang-zhang.github.io/proj-symtrans/) | 
 [[Code]](https://github.com/zwx-open/Symmetric-Power-Transformation-INR)
 </div>
 </div>
 
-- <span style="background-color:#524887;color: #fff;font-size:0.9em">[ICME 2025]</span> [Expansive Supervision for Neural Radiance Fields](https://arxiv.org/pdf/2412.10153) \| ***Weixiang Zhang**, Wei Yao, Shuzhao Xie, Shijia Ge, Chen Tang, Zhi Wang*
-- <span style="background-color:#524887;color: #fff;font-size:0.9em">[ICASSP 2025]</span> [Lungmix: A Mixup-Based Strategy for Generalization in Respiratory Sound Classification](https://arxiv.org/abs/2501.00064) \| *Shijia Ge, **Weixiang Zhang**, Shuzhao Xie, Baixu Yan, Zhi Wang* 
-- <span style="background-color:#524887;color: #fff;font-size:0.9em">[ICASSP 2025]</span> [PulmoScan: A Practical Pulmonary Disease Pre-Screening System]() \| *Baixu Yan, Shijia Ge, Meizi Lu, **Weixiang Zhang**, Shuzhao Xie, Zhi Wang* 
-- <span style="background-color:#524887;color: #fff;font-size:0.9em">[AAAI 2025]</span> [JAQ: Joint Efficient Architecture Design and Low-Bit Quantization with Hardware-Software Co-Exploration](https://arxiv.org/abs/2501.05339) \| *Mingzi Wang, Yuan Meng, Chen Tang, **Weixiang Zhang**, Yijian Qin, Yang Yao, Yingxin Li, Tongtong Feng, Xin Wang, Xun Guan, Zhi Wang, Wenwu Zhu* 
-- <span style="background-color:#524887;color: #fff;font-size:0.9em">[NeurIPS 2024]</span> [Multi-scale Consistency for Robust 3D Registration via Hierarchical Sinkhorn Tree](https://openreview.net/pdf?id=sfPxUqzdPI) \| *Chengwei Ren, Yifan Feng, **Weixiang Zhang**, Xiao-Ping Zhang, Yue Gao* 
-- <span style="background-color:#524887;color: #fff;font-size:0.9em">[ECCV 2024]</span> [MesonGS: Post-training Compression of 3D Gaussians via Efficient Attribute Transformation](https://arxiv.org/abs/2409.09756) \| *Shuzhao Xie, **Weixiang Zhang**, Chen Tang, Yunpeng Bai, Rongwei Lu, Shijia Ge, Zhi Wang* 
-\| [[Code](https://github.com/ShuzhaoXie/MesonGS)] \| [[Project](https://shuzhaoxie.github.io/mesongs/)]
+- <span style="background-color:#524887;color: #fff;font-size:0.9em">[ICME 2025]</span> Expansive Supervision for Neural Radiance Fields \| ***Weixiang Zhang**, Wei Yao, Shuzhao Xie, Shijia Ge, Chen Tang, Zhi Wang* \|
+[[Paper]](https://arxiv.org/pdf/2412.10153) \|
+[[Code]](https://github.com/zwx-open/Expansive-Supervision) 
+- <span style="background-color:#524887;color: #fff;font-size:0.9em">[ICASSP 2025]</span> Lungmix: A Mixup-Based Strategy for Generalization in Respiratory Sound Classification \| *Shijia Ge, **Weixiang Zhang**, Shuzhao Xie, Baixu Yan, Zhi Wang*  \|
+[[Paper]](https://arxiv.org/abs/2501.00064)
+- <span style="background-color:#524887;color: #fff;font-size:0.9em">[ICASSP 2025]</span> PulmoScan: A Practical Pulmonary Disease Pre-Screening System \| *Baixu Yan, Shijia Ge, Meizi Lu, **Weixiang Zhang**, Shuzhao Xie, Zhi Wang* 
+- <span style="background-color:#524887;color: #fff;font-size:0.9em">[AAAI 2025]</span> JAQ: Joint Efficient Architecture Design and Low-Bit Quantization with Hardware-Software Co-Exploration \| *Mingzi Wang, Yuan Meng, Chen Tang, **Weixiang Zhang**, Yijian Qin, Yang Yao, Yingxin Li, Tongtong Feng, Xin Wang, Xun Guan, Zhi Wang, Wenwu Zhu* \|
+[[Paper]](https://arxiv.org/abs/2501.05339)
+- <span style="background-color:#524887;color: #fff;font-size:0.9em">[NeurIPS 2024]</span> Multi-scale Consistency for Robust 3D Registration via Hierarchical Sinkhorn Tree \| *Chengwei Ren, Yifan Feng, **Weixiang Zhang**, Xiao-Ping Zhang, Yue Gao* \|
+[[Paper]](https://openreview.net/pdf?id=sfPxUqzdPI)
+- <span style="background-color:#524887;color: #fff;font-size:0.9em">[ECCV 2024]</span> MesonGS: Post-training Compression of 3D Gaussians via Efficient Attribute Transformation \| *Shuzhao Xie, **Weixiang Zhang**, Chen Tang, Yunpeng Bai, Rongwei Lu, Shijia Ge, Zhi Wang* 
+[[Paper]](https://arxiv.org/abs/2409.09756) \|
+[[Project]](https://shuzhaoxie.github.io/mesongs/) \|
+[[Code](https://github.com/ShuzhaoXie/MesonGS)]
 
 # 📌 Preprints
 
-- [SizeGS: Size-aware Compression of 3D Gaussians with Hierarchical Mixed Precision Quantization](https://arxiv.org/abs/2412.05808) \| *Shuzhao Xie\*, Jiahang Liu\*, **Weixiang Zhang**, Shijia Ge, Sicheng Pan, Chen Tang, Yunpeng Bai, Zhi Wang* \| [[Code](https://github.com/mmlab-sigs/sizegs)] \| [[Project](https://shuzhaoxie.github.io/sizegs/)]
-- [Tuning-Free Visual Customization via View Iterative Self-Attention Control](https://arxiv.org/abs/2406.06258) \| *Xiaojie Li, Chenghao Gu, Shuzhao Xie, Yunpeng Bai, **Weixiang Zhang**, Zhi Wang*
-- [Inference with Hybrid Bio-hardware Neural Networks](https://arxiv.org/abs/1905.11594) \| *Yuan Zeng\*, Zubayer Ibne Ferdous\*, **Weixiang Zhang**, Mufan Xu, Anlan Yu, Drew Patel, Xiaochen Guo, Yevgeny Berdichevsky, Zhiyuan Yan*
+- SizeGS: Size-aware Compression of 3D Gaussians with Hierarchical Mixed Precision Quantization \| *Shuzhao Xie\*, Jiahang Liu\*, **Weixiang Zhang**, Shijia Ge, Sicheng Pan, Chen Tang, Yunpeng Bai, Zhi Wang* \| 
+[[Arxiv]](https://arxiv.org/abs/2412.05808) \|
+[[Project](https://shuzhaoxie.github.io/sizegs/)] \|
+[[Code](https://github.com/mmlab-sigs/sizegs)] 
+- Tuning-Free Visual Customization via View Iterative Self-Attention Control \| *Xiaojie Li, Chenghao Gu, Shuzhao Xie, Yunpeng Bai, **Weixiang Zhang**, Zhi Wang* \|
+[[Arxiv]](https://arxiv.org/abs/2406.06258) 
+- Inference with Hybrid Bio-hardware Neural Networks \| *Yuan Zeng\*, Zubayer Ibne Ferdous\*, **Weixiang Zhang**, Mufan Xu, Anlan Yu, Drew Patel, Xiaochen Guo, Yevgeny Berdichevsky, Zhiyuan Yan* \|
+[[Arxiv]](https://arxiv.org/abs/1905.11594)
 
 # 📖 Background
 - *2022.09 - 2025.06* \| SIGS, Tsinghua Universit \| M.s. in Data Science
