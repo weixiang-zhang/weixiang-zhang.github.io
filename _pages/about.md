@@ -17,14 +17,30 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a Master student at Tsinghua SIGS, working with Prof. [Zhi Wang](http://pages.mmlab.top/) on Neural Representation and 3D Vision. I received my Bachelor's degree in Electronic Engineering from Beihang University in 2020.
+I am an incoming Ph.D. student at HKUST, supervised by Prof. [Wenhan Luo](https://whluo.github.io/).
+Prior to that, I obtained my M.S. degree at Tsinghua SIGS, supervised by Prof. [Zhi Wang](http://pages.mmlab.top/) on Neural Representation and 3D Vision. I received my Bachelor's degree in Electronic Engineering from Beihang University in 2020.
 
-
-# 🔥 News
-- *2025.02* \| One paper got accepted to CVPR 2025.
-- *2024.12* \| Two paper got accepted to AAAI 2025. 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div>
+<img src='covers/compare_bias.png' alt="bias" width="100%">
+</div></div>
+<div class='paper-box-text' markdown="1">
+
+[Understanding Bias Terms in Neural Representation]()
+
+**[Weixiang Zhang](https://weixiang-zhang.github.io/)**, Boxi Li,
+[Shuzhao Xie](https://shuzhaoxie.github.io/), Chengwei Ren, Yuan Xue,
+[Zhi Wang](http://pages.mmlab.top/)
+
+[[Paper]]() | 
+[[Code]](https://github.com/zwx-open/Featuring-INR)
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div>
 <img src='covers/evos.png' alt="sym" width="100%">
