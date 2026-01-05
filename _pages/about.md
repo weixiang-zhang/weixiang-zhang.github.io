@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming Ph.D. student at HKUST, supervised by Prof. [Wenhan Luo](https://whluo.github.io/).
-Prior to that, I obtained my M.S. degree at Tsinghua SIGS, supervised by Prof. [Zhi Wang](http://pages.mmlab.top/) on Neural Representation and 3D Vision. I received my Bachelor's degree in Electronic Engineering from Beihang University in 2020.
+I obtained my M.S. degree at Tsinghua SIGS, supervised by Prof. [Zhi Wang](http://pages.mmlab.top/) on Neural Representation and 3D Vision. I received my Bachelor's degree in Electronic Engineering from Beihang University in 2020.
 
 
 # 📝 Publications 
